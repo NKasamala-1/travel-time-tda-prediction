@@ -2,7 +2,7 @@
 
 **IEEE Access, 2025**  
 Nancy Kasamala · South Carolina State University  
-Gurcan Comert · North Carolina A&T State University
+
 
 > DOI: *to be assigned upon publication*  
 > GitHub: `https://github.com/nkasamal-scsu/travel-time-tda-prediction`
